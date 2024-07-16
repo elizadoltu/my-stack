@@ -40,6 +40,11 @@ const Design = () => {
                 google fonts
               </a>
             </p>
+            <p>
+              <a href="https://www.designdeck.io/" target="_blank">
+                design deck
+              </a>
+            </p>
           </div>
           <div>
             <p>
