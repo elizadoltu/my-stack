@@ -48,6 +48,12 @@ const Inspiration = () => {
                 footer
               </a>
             </p>
+            <p>
+              <a href="https://www.pillarstack.com/" target="_blank">
+                pillarstack
+              </a>
+            </p>
+            
           </div>
         </div>
       </div>
