@@ -14,7 +14,7 @@ const Tools = () => {
     <div className="h-screen flex flex-col justify-center" id="#tools">
       <div className="flex items-end">
         <h1 className="font-clashgrotesk-semi text-7xl">tools.</h1>
-        <p className="ml-20 mb-2">my go-to toolkit for crafting.</p>
+        <p className="ml-20 mb-2 font-redhat-regular">my go-to toolkit for crafting.</p>
       </div>
       <div>
         <img src={toolsPhoto} alt="photo with a laptop" />

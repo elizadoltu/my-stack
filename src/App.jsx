@@ -3,6 +3,7 @@ import Landing from "./components/Landing";
 import "./global/index.css";
 import NavBar from "./components/Navbar";
 import Tools from "./components/Tools";
+import Design from "./components/Design";
 
 function App() {
 
@@ -15,6 +16,7 @@ function App() {
     <>
       <Landing scrollToSection={scrollToSection}/>
       <Tools />
+      <Design />
     </>
   );
 }
