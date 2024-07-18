@@ -35,3 +35,13 @@ body {
     font-family: 'Clash Grotesk Bold';
     src: url('../fonts/ClashGrotesk-Bold.otf') format('opentype');
 }
+
+@layer utilities {
+    .text-stroke {
+        --tw-text-stroke-width: 1px;
+        -webkit-text-stroke-width: var(--tw-text-stroke-width);
+        text-stroke-width: var(--tw-text-stroke-width);
+        -webkit-text-stroke-color: var(--font-color);
+        text-stroke-color: var(--font-color);
+    }
+}

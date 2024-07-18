@@ -7,6 +7,7 @@ import Design from "./components/Design";
 import Inspiration from "./components/Inspiration";
 import Technologies from "./components/Technologies";
 import Extensions from "./components/Extensions";
+import Contact from "./components/Contact";
 
 function App() {
 
@@ -23,6 +24,7 @@ function App() {
       <Inspiration />
       <Technologies />
       <Extensions />
+      <Contact />
     </>
   );
 }

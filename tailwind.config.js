@@ -17,9 +17,22 @@ export default {
         'clashgrotesk-bold' : ['Clash Grotesk Bold']
       },
       fontSize : {
-        '10xl' : '10rem'
-      }
+        '10xl' : '10rem',
+        '12xl' : '14rem',
+      },
+      borderRadius: {
+        '60xl' : '80px',
+      },
+      borderWidth: {
+        '12xl' : '16px',
+      },
+      width: {
+        '400px' : '500px'
+      },
     },
+  },
+  experimental : {
+    applyComplexClasses : true,
   },
   plugins: [],
 }
